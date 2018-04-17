@@ -58,6 +58,8 @@ namespace ConsoleApp1
 
                 return Convert.ToBase64String(data);
             }
+
+            //RSA暗号鍵方式のXMLをデータとして処理する。
         }
 
         /// <summary>
